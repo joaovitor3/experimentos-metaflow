@@ -1,2 +1,0 @@
-test-ml:
-  - python metaflow-test.py --modelo-atual=<modelo_atual>
